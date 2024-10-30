@@ -1,2 +1,4 @@
 rootProject.name = 'common'
+include 'common-dtos'
+include 'common-clients'
 

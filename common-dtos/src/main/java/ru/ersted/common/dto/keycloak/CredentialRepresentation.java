@@ -1,4 +1,4 @@
-package net.ersted.dto.keycloak;
+package ru.ersted.common.dto.keycloak;
 
 
 import java.util.Objects;
